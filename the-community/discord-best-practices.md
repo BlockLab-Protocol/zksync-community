@@ -14,6 +14,7 @@ These are only a few to start and if you have any others to add please feel free
 2. Treat every question with patience and understanding, acknowledging the diverse levels of experience within our community.
 3. Only respond to questions if you're sure of the answer. If unsure, either research the topic, let someone else answer, or seek assistance from a ZK Success member if the question remains unanswered.
 4. Contribute to a discussion only if you have additional relevant information or a different perspective, avoiding repetition of already provided answers.
+5. Do not post about things not related to Zksync in any of the community servers.
 
 </details>
 
